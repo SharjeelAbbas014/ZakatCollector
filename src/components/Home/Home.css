@@ -1,0 +1,6 @@
+#home {
+  background-image: url("../../imgs/hero.jpg");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}

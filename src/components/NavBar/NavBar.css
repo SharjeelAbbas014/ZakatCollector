@@ -1,0 +1,27 @@
+#navbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.493);
+  position: fixed;
+  width: 100vw;
+  height: 10vh;
+  top: 0;
+  left: 0;
+}
+
+#links {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+#homeNav {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
